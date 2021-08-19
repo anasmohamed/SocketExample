@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5C3FB895-F7D3-4E10-A5AA-8CD237319745"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC734BB8-41E3-4273-BE8F-AD05C81CA7A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketExample/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Service"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EC734BB8-41E3-4273-BE8F-AD05C81CA7A7 - 3b102ca4ec0823b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketExample.Service.__allocating_init() -&gt; SocketExample.Service"
+                  moduleName = "SocketExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noone/Desktop/SocketExample/SocketExample/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "EC734BB8-41E3-4273-BE8F-AD05C81CA7A7 - 37e81547d1957e3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketExample.Service.init() -&gt; SocketExample.Service"
+                  moduleName = "SocketExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noone/Desktop/SocketExample/SocketExample/Service.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
